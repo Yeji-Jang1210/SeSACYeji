@@ -51,7 +51,7 @@
 		B84A1F5F2CB4F69E007C09CC /* SeSACYeji */ = {
 			isa = PBXGroup;
 			children = (
-				B84A1F6E2CB4F899007C09CC /* Yeji */,
+				B84A1F6F2CB4FA75007C09CC /* bran */,
 				B84A1F662CB4F6A0007C09CC /* Preview Content */,
 			);
 			path = SeSACYeji;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		B84A1F6E2CB4F899007C09CC /* Yeji */ = {
+		B84A1F6F2CB4FA75007C09CC /* bran */ = {
 			isa = PBXGroup;
 			children = (
 				B84A1F602CB4F69E007C09CC /* SeSACYejiApp.swift */,
 				B84A1F622CB4F69E007C09CC /* ContentView.swift */,
 				B84A1F642CB4F6A0007C09CC /* Assets.xcassets */,
 			);
-			path = Yeji;
+			path = bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
